@@ -1,7 +1,7 @@
 name: Kids&Caffeine
 favicon: null
-layout_spectrum: 0.8398408701177686
-typography_spectrum: 0.16019943822175264
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3984817180316895
-  lightness: 0.4224385463166982
-  saturation: 0.42005522130057216
-  rhythmicContrast: 0.5085600935854018
+    - '#bec6bb'
+    - '#90867d'
+    - '#605247'
+    - '#2e2617'
+    - '#fdc687'
+  brandStrength: 0.9375
+  lightness: 0.625
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
